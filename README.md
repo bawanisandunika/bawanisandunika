@@ -1,9 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/54/6c/3e/546c3e432ece5c4569e271657c0133f7.gif)](https://www.pinterest.com/pin/frontend-backend-and-full-stack-web-development--846254586223209432/)
-
 <h1 align="center">Hi 👋, I'm Bawani</h1>
 <h3 align="center">A passionate frontend developer from SriLanka</h3>
-img align="right" alt="Coding" width="400" src="https://lottiefiles.com/animations/girl-on-computer-with-idea-vKx1wtZe5l")
-
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif%20girl&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F4055494%2Fscreenshots%2F15215756%2Fmedia%2Fd2b66c4ca0192aa26d103448b3d1518b.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&docid=S2_fnYEU1a3BSM&tbnid=NUntO8FQoc-57M&vet=12ahUKEwjq1LbfjvaGAxX3xDgGHaHOLEgQM3oECFkQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjq1LbfjvaGAxX3xDgGHaHOLEgQM3oECFkQAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bawanisandunika&label=Profile%20views&color=0e75b6&style=flat" alt="bawanisandunika" /> </p>
 
@@ -11,7 +8,13 @@ img align="right" alt="Coding" width="400" src="https://lottiefiles.com/animatio
 
 - 🔭 I’m currently working on [MathQuiz Mobile Application](https://github.com/bawanisandunika/MathQuiz-Mobile-Application)
 
+- 🌱 I’m currently learning **React , Angular , Vue.js, Laravel, Django**
+
+- 💬 Ask me about **React**
+
 - 📫 How to reach me **bawanisandunika51@gmail.com**
+
+- ⚡ Fun fact **I love solving puzzles and challenges, both in coding and in real life!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
