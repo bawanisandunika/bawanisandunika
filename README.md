@@ -2,7 +2,7 @@
 <div style="display: flex; justify-content: space-between;">
   <div>
     <h1 align="center">Hi 👋, I'm Bawani</h1>
-    <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+    <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
   </div>
   <div>
     <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_vKx1wtZe5l.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
