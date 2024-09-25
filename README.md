@@ -1,11 +1,12 @@
 <!-- Lottie Animation in the top right corner -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <h1 align="center">Hi 👋, I'm Bawani Sandunika</h1>
+    <h1 align="center"><b>Bawani Sandunika<b></h1>
     <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
   </div>
   <div>
-    <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_vKx1wtZe5l.json"  background="transparent"  speed="1"  style="width: 250px; height: 250px;"  loop  autoplay></lottie-player>
+    <!-- New coding-themed animation -->
+    <lottie-player src="https://assets4.lottiefiles.com/packages/lf20_hdsaxlwy.json"  background="transparent"  speed="1"  style="width: 250px; height: 250px;"  loop  autoplay></lottie-player>
   </div>
 </div>
 
@@ -20,7 +21,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Bawani Sandunika</h1>
-<h3 align="center">I am a student of the National Institute of Business Management (NIBM).</h3>
+<h3 align="center">I'm currently pursuing my studies in the field of computer science and software development..</h3>
 
 <a target="_blank" align="center">
   <img align="right" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
