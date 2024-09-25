@@ -123,9 +123,29 @@
 
 ---
 
-<!-- Footer Section -->
-<footer style="text-align:center; padding:10px; font-size:12px; color:gray;">
-  <p>© 2024 <b>Bawani Sandunika</b>. All rights reserved.</p>
-  <p>Built with ❤️ using HTML, Markdown, and GitHub.</p>
-  <p><a href="mailto:bawanisandunika51@gmail.com">📧 Contact me</a> | <a href="https://github.com/bawanisandunika">🔗 Visit my GitHub</a></p>
+<!-- Enhanced Smart Footer Section -->
+<footer style="background-color: #1a1a1a; color: #f1f1f1; padding: 40px 20px; text-align: center; font-family: Arial, sans-serif;">
+  <div style="margin-bottom: 20px;">
+    <a href="mailto:bawanisandunika51@gmail.com" style="color: #f1f1f1; text-decoration: none; margin: 0 15px; font-size: 18px;">📧 Contact Me</a>
+    <a href="https://github.com/bawanisandunika" style="color: #f1f1f1; text-decoration: none; margin: 0 15px; font-size: 18px;">GitHub Profile</a>
+    <a href="https://www.linkedin.com/in/bawani-sandunika-73061825b/" style="color: #f1f1f1; text-decoration: none; margin: 0 15px; font-size: 18px;">LinkedIn</a>
+  </div>
+
+  <div class="social-icons" style="margin-bottom: 20px;">
+    <a href="https://github.com/bawanisandunika" style="margin: 0 10px;">
+      <img src="https://img.icons8.com/ios-filled/50/f1f1f1/github.png" alt="GitHub" style="width: 40px; height: 40px;"/>
+    </a>
+    <a href="https://www.linkedin.com/in/bawani-sandunika-73061825b/" style="margin: 0 10px;">
+      <img src="https://img.icons8.com/ios-filled/50/f1f1f1/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px;"/>
+    </a>
+    <a href="mailto:bawanisandunika51@gmail.com" style="margin: 0 10px;">
+      <img src="https://img.icons8.com/ios-filled/50/f1f1f1/gmail.png" alt="Email" style="width: 40px; height: 40px;"/>
+    </a>
+  </div>
+
+  <p style="font-size: 16px; margin: 0;">Made by <b>Bawani Sandunika</b></p>
+
+  <div style="margin-top: 20px;">
+    <p style="font-size: 14px; color: #a6a6a6;">© 2024 Bawani Sandunika | All Rights Reserved</p>
+  </div>
 </footer>
