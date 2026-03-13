@@ -1,151 +1,202 @@
-<!-- Lottie Animation in the top right corner -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <h1 align="center"><b>Bawani Sandunika</b></h1>
-    <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
-  </div>
-  <div>
-    <!-- Coding-themed animation -->
-    <lottie-player src="https://assets4.lottiefiles.com/packages/lf20_q5pk6p1k.json" background="transparent" speed="1" style="width: 250px; height: 250px;" loop autoplay></lottie-player>
-  </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </div>
 
-<!-- Profile Views & Twitter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bawanisandunika&label=Profile%20views&color=ff69b4&style=flat" alt="bawanisandunika" />
-  <a href="https://twitter.com/bawanisandunika" target="_blank"><img src="https://img.shields.io/twitter/follow/bawanisandunika?logo=twitter&style=for-the-badge" alt="bawanisandunika" /></a>
+<a href="https://github.com/bawanisandunika"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Bawanisandunika;Full-Stack+Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
-<!-- About Me Section -->
-<p align="center"> 
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Bawani Sandunika</h1>
-<h3 align="center">I'm currently pursuing my studies in the field of computer science and software development.</h3>
-
-<a target="_blank" align="center">
-  <img align="right" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<a href="https://github.com/bawanisandunika">
+  <img src="https://render.gitanimals.org/lines/bawanisandunika?pet-id=655005503710681288" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/bawanisandunika?pet-id=655084059983724938" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/bawanisandunika?pet-id=676696471626403543" width="30%" height="100" />
 </a>
 
-- 🌱 I’m currently learning **React, Angular, Vue.js, Laravel, Django, and AI/ML**  
-- 🔭 I’m currently working on [MathQuiz Mobile Application](https://github.com/bawanisandunika/MathQuiz-Mobile-Application)  
-- 💬 Ask me about **React, Flutter, and Python**  
-- 📫 Reach me at **bawanisandunika51@gmail.com**  
-- ⚡ Fun fact: **I love solving puzzles and challenges, both in coding and in real life!**  
-- 🎨 **Personal Motto**: _"Innovating every day to create impactful solutions!"_
+I am a **full-stack software engineer** and **entrepreneur** who specializes in developing **scalable web, mobile, and enterprise solutions**. With expertise in **ML, DL, MERN, Java, and Spring Boot**, I build robust applications from concept to deployment.
+
+### 🚀 About Me
+- 🔥 **Founder & Lead Developer** at **WorkMate** – Innovating academic support services
+- 💻 **Software engineering enthusiast** – Specializing in full-stack development
+- 🔬 Passionate about **Web Applications, Mobile Development, , and Desktop Applications**
+- 🎯 Dedicated to **creating impactful technology solutions** 🔥
+- 🏆 **Oracle certificates** – **SQL Intermediate Certification** & **Software Engineer Intern Certificate**
 
 ---
 
-<!-- Connect with me Section -->
-<h3 align="center">🌐 Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/bawanisandunika" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bawanisandunika" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/bawanisandunika" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bawanisandunika" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/bawanisandunika" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bawanisandunika" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/bawani_sandunika" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bawani_sandunika" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@bawanisandunika" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bawanisandunika" height="30" width="40" />
-  </a>
-</p>
+### 📌 Featured Repositories
 
----
-
-<!-- Languages and Tools Section -->
-<h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  <a href="https://github.com/bawanisandunika/lasindu-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bawanisandunika&repo=portfolio&theme=radical" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <a href="https://github.com/bawanisandunika/EdifyHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bawanisandunika&repo=EdifyHub&theme=radical" />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <a href="https://github.com/bawanisandunika/Deepfake-Detection-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bawanisandunika&repo=Deepfake-Detection-System&theme=radical" />
   </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <a href="https://github.com/bawanisandunika/mcpwebgenerator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bawanisandunika&repo=mcpwebgenerator&theme=radical" />
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://github.com/bawanisandunika/resume_to_job_predictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bawanisandunika&repo=resume_to_job_predictor&theme=radical" />
   </a>
 </p>
 
 ---
 
-<!-- Fun Badges Section -->
-<h3 align="center">🎉 Fun Badges:</h3>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/bawanisandunika?label=Follow&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/bawanisandunika?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/forks/bawanisandunika?label=Forks&style=social" alt="GitHub Forks" />
-  <img src="https://img.shields.io/github/contributors/bawanisandunika?label=Contributors&style=social" alt="Contributors" />
-  <img src="https://img.shields.io/github/issues/bawanisandunika?label=Issues&style=social" alt="GitHub Issues" />
-</p>
-<p align="center">
-  Let's build amazing projects together! 🚀
-</p>
+### 💡 Tech Stack
+
+#### **🚀 Programming & Scripting:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-FF61E2?style=flat&logo=c%2B%2B&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-A2A4D2?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+#### **🖥️ Frontend:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+#### **⚙️ Backend:**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Jakarta Servlet](https://img.shields.io/badge/Jakarta%20Servlet-CC0000?style=flat&logo=oracle&logoColor=white)
+
+#### **🗄️ Databases:**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFA50A?style=flat&logo=firebase&logoColor=white)
+
+#### **🌐 APIs & Tools:**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-000000?style=flat&logo=redhat&logoColor=white)
+
+#### **☁️ DevOps & Cloud:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
-<!-- GitHub Stats Section -->
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bawanisandunika&show_icons=true&theme=tokyonight" alt="bawanisandunika" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bawanisandunika&theme=tokyonight" alt="bawanisandunika" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bawanisandunika&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bawanisandunika" />
-</p>
+### ⚡ GitHub Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bawanisandunika&theme=radical&rank_icon=percentile&show_icons=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bawanisandunika&rank_icon=percentile&show_icons=true" />
+    <img width="48%" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=bawanisandunika&rank_icon=percentile&show_icons=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bawanisandunika&layout=compact&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bawanisandunika&layout=compact" />
+    <img width="48%" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bawanisandunika&layout=compact" />
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bawanisandunika&theme=radical&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bawanisandunika&hide_border=true" />
+    <img alt="github-streak" src="https://streak-stats.demolab.com?user=bawanisandunika&hide_border=true" />
+  </picture>
+</div>
 
 ---
 
-<!-- Enhanced Smart Footer Section -->
-<footer style="background-color: #1a1a1a; color: #f1f1f1; padding: 40px 20px; text-align: center; font-family: Arial, sans-serif;">
-  <div style="margin-bottom: 20px;">
-    <a href="mailto:bawanisandunika51@gmail.com" style="color: #f1f1f1; text-decoration: none; margin: 0 15px; font-size: 18px;">📧 Contact Me</a>
-    <a href="https://github.com/bawanisandunika" style="color: #f1f1f1; text-decoration: none; margin: 0 15px; font-size: 18px;">GitHub Profile</a>
-    <a href="https://www.linkedin.com/in/bawani-sandunika-73061825b/" style="color: #f1f1f1; text-decoration: none; margin: 0 15px; font-size: 18px;">LinkedIn</a>
-  </div>
+## 📊 Contribution Graph
 
-  <div class="social-icons" style="margin-bottom: 20px;">
-    <a href="https://github.com/bawanisandunika" style="margin: 0 10px;">
-      <img src="https://img.icons8.com/ios-filled/50/f1f1f1/github.png" alt="GitHub" style="width: 40px; height: 40px;"/>
-    </a>
-    <a href="https://www.linkedin.com/in/bawani-sandunika-73061825b/" style="margin: 0 10px;">
-      <img src="https://img.icons8.com/ios-filled/50/f1f1f1/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px;"/>
-    </a>
-    <a href="mailto:bawanisandunika51@gmail.com" style="margin: 0 10px;">
-      <img src="https://img.icons8.com/ios-filled/50/f1f1f1/gmail.png" alt="Email" style="width: 40px; height: 40px;"/>
-    </a>
-  </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bawanisandunika&theme=radical" alt="Contribution Graph" />
+</div>
 
-  <p style="font-size: 16px; margin: 0;">Made by <b>Bawani Sandunika</b></p>
+---
 
-  <div style="margin-top: 20px;">
-    <p style="font-size: 14px; color: #a6a6a6;">© 2024 Bawani Sandunika | All Rights Reserved</p>
-  </div>
-</footer>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=bawanisandunika&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+### 🔥 What I'm Currently Working On
+
+- 🚀 Scaling **WorkMate** to serve more students globally
+- 🤖 Developing **AI-powered academic assistance tools**
+- ☁️ Building **cloud-native, scalable deployment pipelines**
+- 📱 Creating innovative **mobile-first solutions**
+
+---
+
+### 🔹 Why Connect With Me?
+
+🚀 **I'm passionate about tech innovation, building scalable applications, and solving real-world problems.** Open to **collaborations, speaking opportunities, and mentorship.**
+
+📫 **Let's Connect:**
+- 💼 [LinkedIn](https://linkedin.com/in/bawanisandunika)
+- 🌐 [Portfolio](https://bawanisandunika.vercel.app)
+- 📧 [Email](mailto:bawanisandunika51@gmail.com)
+
+---
+
+### 📊 Profile Insights
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/bawanisandunika?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=bawanisandunika&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/commit-activity/y/bawanisandunika/bawanisandunika/main?color=blue&label=Commit%20Activity" alt="GitHub Commit Activity" />
+  <img src="https://img.shields.io/github/stars/bawanisandunika?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3" alt="GitHub Stars" />
+</div>
+
+---
+
+### 👨‍💻 Coding Activity
+
+<div align="center">
+  <a href="https://wakatime.com/@ItzMarvel">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ItzMarvel&theme=radical&layout=compact" alt="WakaTime Stats" />
+  </a>
+</div>
+
+---
+
+### 😂 A Little Humor
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random Developer Joke" />
+</div>
+
+---
+
+### 🌌 3D Contribution Metrics
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bawanisandunika/bawanisandunika/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/bawanisandunika/bawanisandunika/blob/main/profile-3d-contrib/profile-south-season-animate.svg" />
+  <img alt="3d-contrib" src="https://github.com/bawanisandunika/bawanisandunika/blob/main/profile-3d-contrib/profile-south-season-animate.svg" />
+</picture>
+</div>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bawanisandunika/bawanisandunika/blob/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/bawanisandunika/bawanisandunika/blob/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/bawanisandunika/bawanisandunika/blob/main/dist/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+---
+
+<div align="center">
+  <h3>🔥 Let's build something awesome together!</h3>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thank%20you%20for%20visiting%20my%20profile👋&reversal=false&section=footer&fontSize=16&animation=twinkling" alt="Footer" />
